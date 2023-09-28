@@ -19,9 +19,9 @@ Python and venv requirements cf. RAINER.yml.
 
 # Running RAINER
 When you run the RAINER.py file, the algorithm uses the representation of the effect of the production steps as a mathematical formula by default. 
-To integrate a ML model instead, the file ml_to_smt_model_FliPSi.py must be imported as 'ge'.
-Model training is performed using the ML_train_FliPSi.py file. 
+To integrate a ML model instead, the file translateSMT_FliPSi.py must be imported as 'ge'.
 translateSMT_FliPSi.py generates the appropriate SMT clauses needed for integration into the satisfiability problem. 
+Model training is performed using the ML_train_FliPSi.py file. 
 The CPPS planning domain can be varied via input_FliPSi.py. 
 
 # Citation
