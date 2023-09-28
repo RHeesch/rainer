@@ -1,2 +1,1 @@
-# rainer
-GeneRic Artificial Intelligence PlaNning for CybEr-Physical PRoduction Systems
+# RAINER - GeneRic Artificial Intelligence PlaNning for CybEr-Physical PRoduction Systems
