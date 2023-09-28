@@ -26,12 +26,14 @@ The CPPS planning domain can be varied via input_FliPSi.py.
 
 # Citation
 When using the code from this paper, please cite:
+```
 @inproceedings{Heesch2023,
   title={Integrating Machine Learning into an SMT-based Planning Approach for Production Planning in Cyber-Physical Production Systems},
   author={René Heesch and Jonas Ehrhardt and Oliver Niggemann},
   booktitle={Proceedings of the HYDRA Workshop at ECAI'23},
   year={2023}
 }
+```
 
 # License
 Licensed under MIT license - cf. LICENSE
