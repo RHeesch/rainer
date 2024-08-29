@@ -12,7 +12,7 @@ Therefore, we propose a novel generic planning approach, which can integrate mat
 Our approach uses a feature-vector-based state-space representation as an interface of symbolic and sub-symbolic AI, and can identify a solution to CPPS planning problems by determining the required production steps, their sequence, and their parametrization.
 We evaluate our approach on twelve planning problems from a real CPPS, demonstrating its ability to express complex dependencies within production steps as mathematical formulas or integrating ML models.
 
-You can access the paper here (link will be provided later).
+You can access the paper [here](https://link.springer.com/chapter/10.1007/978-3-031-50485-3_33).
 
 # Requirements 
 Python and venv requirements cf. RAINER.yml. 
